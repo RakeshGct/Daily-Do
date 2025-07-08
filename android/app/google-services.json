@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795138234707",
+    "project_id": "daily-do-bef70",
+    "storage_bucket": "daily-do-bef70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795138234707:android:117479d8311649a826a9a6",
+        "android_client_info": {
+          "package_name": "com.example.daily_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGYIBPhN6YQGFnbMQq_EAdA2K2gLGgnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
