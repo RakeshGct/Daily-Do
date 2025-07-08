@@ -1,16 +1,18 @@
-# daily_do
+# 📋 DailyDo - To-Do List App
 
-A new Flutter project.
+A beautiful, responsive, and Firebase-powered To-Do app built using **Flutter** and **Provider** state management.  
+Easily manage your daily tasks — add, edit, complete, delete, and stay organized!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Firebase Authentication (Email & Password)  
+✅ Realtime Database with REST API integration  
+✅ Add / Edit / Delete / Mark Complete  
+✅ Responsive UI (Mobile, Tablet, Web)  
+✅ Splash Screen with Lottie Animation  
+✅ Provider-based State Management  
+✅ Form validation & error handling  
+✅ Clean architecture & modular structure  
+✅ Dark Mode ready (optional)
